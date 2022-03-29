@@ -99,15 +99,15 @@ export const whitelistSettings: WhitelistSettings = {
   //If you want to use the whitelist feature enable it.
   enabled: true,
 
-  startDate: date("9 Feb 2022 00:00:00 GMT"),
-  endDate: date("21 Mar 2022 00:00:00 GMT"),
+  startDate: date("28 Mar 2022 00:00:00 GMT"),
+  endDate: date("5 Apr 2022 00:00:00 GMT"),
   countdown: true,
   //Example date below
   // date('29 2021 00:00:00 GMT')
 
   //Wallet Title and Description
   title: "Shiny Things",
-  desc: "This NFT is only for those that have minted and held for the entire week, without listing",
+  desc: "This NFT is only for those that purchased Magpies off of secondary on week 3",
 
   //Enable Custom HTML Below
   enableCustomHTML: false,
